@@ -61,18 +61,17 @@ RegisterNumber:
 
 
 
+![sr1](https://user-images.githubusercontent.com/121957896/214077996-640214e4-a573-4f5a-9c91-87b235ba16d6.png)
 
 
 
+![sr2](https://user-images.githubusercontent.com/121957896/214078012-7fbaccd5-8326-45ce-9da7-6ee9135c0181.png)
 
 
 
 ### TIMING DIGRAMS FOR SHIFT REGISTERS
 
-
-
-
-
+![sr1 td](https://user-images.githubusercontent.com/121957896/214078041-8bfd7fc0-9801-407e-a02f-9780eda80fb6.png)
 
 
 
